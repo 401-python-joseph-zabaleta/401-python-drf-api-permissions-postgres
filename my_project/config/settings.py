@@ -88,6 +88,9 @@ DATABASES = {
     }
 }
 
+
+
+## This is for PG DATA BASE
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql',
